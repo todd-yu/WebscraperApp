@@ -29,9 +29,9 @@ def http_test():
 
 		data = {
 
-		'todd':'master',
-		'shivam':'slave',
-		'naasir':'slave'
+		'todd':'micropenis',
+		'shivam':'legend',
+		'naasir':'big nose'
 
 		}
 

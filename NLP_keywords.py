@@ -7,7 +7,8 @@ client = language.LanguageServiceClient()
 
 # before starting, 
 # authenticate by typing this into the terminal using the correct path:
-# export GOOGLE_APPLICATION_CREDENTIALS="/Users/toddyu/Desktop/Projects/WebscraperAppKeys/webscraper-app2019-4d5a7b00cfcb.json"
+# export GOOGLE_APPLICATION_CREDENTIALS="/[path-to-key]/[key]"
+# e.g. export GOOGLE_APPLICATION_CREDENTIALS="/Users/toddyu/Desktop/Projects/WebscraperAppKeys/webscraper-app2019-4d5a7b00cfcb.json"
 
 # test to analyze
 text = 'Hello, world!'

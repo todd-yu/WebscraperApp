@@ -40,13 +40,6 @@ def http_test():
 	else:
 		return "failure"
 
-<<<<<<< HEAD
-#Todd is a monkey
-#tester
-=======
-
->>>>>>> 822dd6d9ac708a68eaa69a0245f2ca1f978fefef
-
 
 if __name__ == '__main__':
 	app.run(debug = True)

@@ -6,7 +6,8 @@ from google.cloud.language import types
 client = language.LanguageServiceClient()
 
 # before starting, 
-# authenticate by typing this into the terminal using the correct path:
+# run "pip3 install --upgrade google-cloud-language" in terminal and selected environment
+# then, authenticate by typing this into the terminal using the correct path:
 # export GOOGLE_APPLICATION_CREDENTIALS="/[path-to-key]/[key]"
 # e.g. export GOOGLE_APPLICATION_CREDENTIALS="/Users/toddyu/Desktop/Projects/WebscraperAppKeys/webscraper-app2019-4d5a7b00cfcb.json"
 

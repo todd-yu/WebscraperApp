@@ -1,7 +1,6 @@
 from flask import Flask, jsonify, request
 import requests
 from bs4 import BeautifulSoup
-import webbrowser
 
 app = Flask(__name__)
 
@@ -13,7 +12,7 @@ app = Flask(__name__)
 def main():
 	raw_html = request.args.get('html') or None
 	"""main algorithm, takes in html and returns http reqeust to BetterNews in json format"""
-	# news_articles = 
+	# news_articles 
 	# google_cloud()
 	# better_news()
 	

@@ -29,10 +29,8 @@ def http_test():
 
 		data = {
 
-		'todd':'micropenis',
-		'shivam':'legend',
-		'naasir':'big nose'
-
+		'key':'value'
+		
 		}
 
 		return jsonify(data)

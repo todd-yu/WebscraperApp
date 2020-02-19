@@ -23,3 +23,5 @@ def extract_text(raw_html):
         return text_soup.get_text()
 
     return get_title_data(soup) + " " + get_paragraph_data(soup)
+
+extract_text(page)

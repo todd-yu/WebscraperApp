@@ -4,9 +4,9 @@ Chrome extension that looks at the article you’re reading, and then intelligen
 
 ---
 
-Spec:
+Full Spec:
 
-![image info](./assets/WebscraperApp.png)
+https://app.lucidchart.com/documents/view/9a682224-6080-418d-bcd7-74e7af484fa3
 
 ---
 

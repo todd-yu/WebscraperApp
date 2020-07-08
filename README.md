@@ -6,9 +6,7 @@ Chrome extension that looks at the article you’re reading, and then intelligen
 
 Spec:
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;">
-<iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://app.lucidchart.com/documents/embeddedchart/9a682224-6080-418d-bcd7-74e7af484fa3" id="M2fb~J_DOrFt"></iframe>
-</div>
+![image info](./assets/WebscraperApp.png)
 
 ---
 

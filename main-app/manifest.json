@@ -1,0 +1,22 @@
+{
+    "name": "Intelligent Article Suggestion WebScraper Extension",
+    "version": "0.0.1",
+    "description": "Chrome Extension that intelligently suggests news article relevant to the current page",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "activeTab",
+        "*://*/*",
+        "storage",
+        "notifications",
+        "contextMenus"
+    ],
+    "content_scripts": [
+        {
+            "matches":["<all_urls>"],
+            "js": ["extractor.js"]
+        }
+    ]
+}
